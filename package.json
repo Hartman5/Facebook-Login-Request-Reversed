@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "tough-cookie": "^4.1.4",
+    "undici": "^6.18.1"
+  },
+  "name": "facebook-login-request-reversed",
+  "version": "1.0.0",
+  "main": "main.js",
+  "type": "module",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Hartman5",
+  "license": "ISC",
+  "description": ""
+}
