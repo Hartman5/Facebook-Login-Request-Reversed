@@ -11,4 +11,4 @@ Discord - @tenfigures
 
 # Contributions
 
-@probabilities
+Reversed by - [@Hartman5](https://github.com/hartman5) & [@probabilities](https://github.com/probabilities)
