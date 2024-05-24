@@ -1,6 +1,6 @@
 # Facebook Login Request Reversal
 
-Login to non-2fa Facebook accounts via HTTP requests completely undetected.
+Login to non-2fa Facebook accounts via HTTP requests completely undetected. Recieves all cookies required to make requests to any of Facebook's private api's endpoints.
 
 # Reversing Other Facebook Endpoints
 
