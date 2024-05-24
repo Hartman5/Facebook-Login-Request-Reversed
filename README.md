@@ -8,3 +8,7 @@ I've reversed all GraphQL endpoints on Facebook's private API, contact me for mo
 
 Telegram - @Hartman50
 Discord - @tenfigures
+
+# Contributions
+
+@probabilities
