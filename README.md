@@ -6,7 +6,7 @@ Login to non-2fa Facebook accounts via HTTP requests completely undetected.
 
 I've reversed all GraphQL endpoints on Facebook's private API, contact me for more info.
 
-Telegram - @Hartman50
+Telegram - @Hartman50 <br/>
 Discord - @tenfigures
 
 # Contributions
